@@ -4,7 +4,7 @@
           <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta charset="UTF-8">
-        <title>wubba lubba dub dub </title>
+        <title>CripThor</title>
         <style>
             
             .foot {position: fixed; display: block; bottom: 0; width: 100%; background-color: #1c1c1c; color: #fff}
